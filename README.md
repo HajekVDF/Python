@@ -1,2 +1,2 @@
-# Python-examples
-Úlohy v Pythonu
+# Python repozitář
+V tomto repozitáři najdete jednoduché příklady kódu v Pythonu.
